@@ -20,4 +20,4 @@
 
 ## macOS
 
-- Follow the steps provided in the Downloads [Page](https://developer.hashicorp.com/terraform/downloads) for macOS.
+- Follow the steps provided in the Downloads [Page](https://developer.hashicorp.com/terraform/downloads) for macOS. Checking git clone
